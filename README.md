@@ -1,4 +1,5 @@
 # SpringBoot_Thymeleaf_udemy
+Spring Boot CRUD App with Thymeleaf and Bootstrap
 
 Most important branch:
 - add_employees
